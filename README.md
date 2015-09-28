@@ -7,4 +7,4 @@ Set of precompiled DLL extensions using Visual Studio 2003 for PHP 5.6.
 * Copy the other dll files to your PHP directory
 * Restart your server if any
 
-These extensions are compatible only with PHP 5.6 compiled using **Visual Studio 2013** thus it is not compatible with the original distribution.
+These extensions are compatible only with PHP 5.6 compiled using **Visual Studio 2013** thus it is **not compatible with the original PHP distribution**.
